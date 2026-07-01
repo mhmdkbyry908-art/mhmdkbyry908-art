@@ -37,28 +37,40 @@ I'm currently learning Front-End Development and building real-world projects ev
 # 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode"/>
-
 </p>
 
 > 🚧 JavaScript, React and Python will be added soon...
 
 ---
 
-# 📌 Featured Project
+# 📌 Featured Projects
 
 ## 🔧 Mechanic Website (Avada Clone)
 
-Responsive mechanic website built with **HTML & CSS**
+Responsive mechanic website built with **HTML & CSS**.
 
-### 🌐 Live Demo
+<p>
+<a href="https://mhmdkbyry908-art.github.io/mechanic-site/">
+<img src="https://img.shields.io/badge/🌐 Live%20Demo-2ea44f?style=for-the-badge"/>
+</a>
 
-https://mhmdkbyry908-art.github.io/mechanic-site/
+<a href="https://github.com/mhmdkbyry908-art/mechanic-site">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-### 📂 Repository
+---
 
-https://github.com/mhmdkbyry908-art/mechanic-site
+## 💻 My First HTML & CSS Project
+
+My first project created while learning the fundamentals of HTML & CSS.
+
+<p>
+<a href="https://github.com/mhmdkbyry908-art/my-first-project">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
@@ -95,9 +107,7 @@ https://github.com/mhmdkbyry908-art/mechanic-site
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Every expert was once a beginner."*
-
+⭐ <b>Thanks for visiting my profile!</b> ⭐
+<br><br>
+<i>"Every expert was once a beginner."</i>
 </p>
