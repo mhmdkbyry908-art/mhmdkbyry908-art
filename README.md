@@ -30,7 +30,7 @@ I'm currently learning Front-End Development and building real-world projects ev
 - 💻 Building responsive and modern websites
 - 🚀 Passionate about Front-End Development
 - 🎯 Goal: Become a Professional Front-End Developer
-- 🇨🇦 Long-term Goal: Work as a Software Developer in Canada
+
 
 ---
 
