@@ -61,7 +61,14 @@ Responsive mechanic website built with **HTML & CSS**.
 </p>
 
 ---
+### 🚗 Tesla Car Site
 
+> Modern automotive website built with pure HTML & CSS, featuring a clean layout and modern UI.
+
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-2ea44f?style=for-the-badge&labelColor=2ea44f)](https://mhmdkbyry908-art.github.io/tesla-clone/)
+[![Repository](https://img.shields.io/badge/GitHub_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmdkbyry908-art/tesla-clone)
+
+---
 ## 💻 My First HTML & CSS Project
 
 My first project created while learning the fundamentals of HTML & CSS.
