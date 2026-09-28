@@ -1,120 +1,186 @@
-<h1 align="center">Hi 👋, I'm Mohammad Kabiri</h1>
+# Hi 👋, I'm Mohammad Kabiri
 
-<h3 align="center">
-🚀 Front-End Developer | Passionate About Web Development
-</h3>
+### 🚀 Front-End Developer | Passionate About Web Development
 
-<p align="center">
-I'm currently learning Front-End Development and building real-world projects every day.
-</p>
-
-<p align="center">
-<a href="mailto:mhmdkbyry908@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-kabiri-9875b4418/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mhmdkbyry908-art">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+I'm currently learning Front-End Development and building real-world projects to improve my skills every day.
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **HTML, CSS & JavaScript**
-- 💻 Building responsive and modern websites
+- 🌱 Currently learning HTML, CSS & JavaScript
+- 🎨 Interested in modern and responsive web design
+- 💻 Building real-world Front-End projects
+- 🐍 Python programmer with experience in OOP
 - 🚀 Passionate about Front-End Development
 - 🎯 Goal: Become a Professional Front-End Developer
 
-
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode"/>
+### 🌐 Front-End
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
 </p>
 
-> 🚧 JavaScript, React and Python will be added soon...
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- Responsive Web Design
+- CSS Grid
+- Flexbox
+- DOM Manipulation
 
----
+### 🐍 Programming
 
-# 📌 Featured Projects
-
-## 🔧 Mechanic Website (Avada Clone)
-
-Responsive mechanic website built with **HTML & CSS**.
-
-<p>
-<a href="https://mhmdkbyry908-art.github.io/mechanic-site/">
-<img src="https://img.shields.io/badge/🌐 Live%20Demo-2ea44f?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/mhmdkbyry908-art/mechanic-site">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>
 
----
-### 🚗 Tesla Car Site
+- Python
+- Object-Oriented Programming (OOP)
+- Classes & Objects
+- Inheritance
+- Functions
+- Exception Handling
+- Basic Algorithms
+- Minimax Algorithm
 
-> Modern automotive website built with pure HTML & CSS, featuring a clean layout and modern UI.
+### 🧰 Tools
 
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-2ea44f?style=for-the-badge&labelColor=2ea44f)](https://mhmdkbyry908-art.github.io/tesla-clone/)
-[![Repository](https://img.shields.io/badge/GitHub_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmdkbyry908-art/tesla-clone)
-
----
-## 💻 My First HTML & CSS Project
-
-My first project created while learning the fundamentals of HTML & CSS.
-
-<p>
-<a href="https://github.com/mhmdkbyry908-art/my-first-project">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
 </p>
 
+- Git
+- GitHub
+- Visual Studio Code
+- GitHub Pages
+- Vite
+- npm
+
 ---
 
-# 📊 GitHub Stats
+# 📌 My Projects
 
-<p align="center">
+## 🎮 Tic-Tac-Toe Python
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhmdkbyry908-art&show_icons=true&theme=github_dark&hide_border=true"/>
+Object-Oriented Tic-Tac-Toe game built with Python.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdkbyry908-art&layout=compact&theme=github_dark&hide_border=true"/>
+### Features
+- Human vs AI
+- Human vs Human
+- Easy / Medium / Hard AI
+- Minimax Algorithm
+- Win & Draw Detection
+- Input Validation
 
-</p>
+🔗 [Repository](https://github.com/mhmdkbyry908-art/tic-tac-toe-python)
+
+---
+
+## 🏍️ Kavir Test Clone
+
+Responsive Front-End practice project inspired by the Kavir website.
+
+### Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+- Vite
+
+🔗 [Repository](https://github.com/mhmdkbyry908-art/kavir-test-clone)
+
+🔗 [Live Demo](https://mhmdkbyry908-art.github.io/kavir-test-clone/)
+
+---
+
+## 🔧 Mechanic Website
+
+A mechanic website inspired by the Avada Mechanic template.
+
+### Technologies
+- HTML5
+- CSS3
+- CSS Grid
+- Responsive Design
+
+🔗 [Repository](https://github.com/mhmdkbyry908-art/mechanic-site)
+
+🔗 [Live Demo](https://mhmdkbyry908-art.github.io/mechanic-site/)
+
+---
+
+## 🚗 Tesla Clone
+
+A Front-End practice project inspired by modern automotive websites.
+
+### Technologies
+- HTML5
+- CSS3
+
+🔗 [Repository](https://github.com/mhmdkbyry908-art/tesla-clone)
+
+---
+
+## 🌱 My First HTML & CSS Project
+
+My first Front-End project created while learning the fundamentals of HTML and CSS.
+
+### Technologies
+- HTML5
+- CSS3
+
+🔗 [Repository](https://github.com/mhmdkbyry908-art/my-first-project)
+
+🔗 [Live Demo](https://mhmdkbyry908-art.github.io/my-first-project/)
+
+---
+
+## 💻 More Projects
+
+You can find all of my public projects on my GitHub profile.
+
+🔗 [View All Repositories](https://github.com/mhmdkbyry908-art?tab=repositories)
+
+---
+
+# 📈 Currently Learning
+
+- JavaScript
+- Advanced CSS
+- Responsive Web Design
+- Tailwind CSS
+- Front-End Development
+- Git & GitHub
+
+---
+
+# 🎯 My Goal
+
+My goal is to become a professional Front-End Developer by continuously learning, building real-world projects, and improving my problem-solving skills.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+📧 Email: mhmdkbyry908@gmail.com
 
-<a href="mailto:mhmdkbyry908@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
+💻 GitHub: [mhmdkbyry908-art](https://github.com/mhmdkbyry908-art)
 
-<a href="https://www.linkedin.com/in/mohammad-kabiri-9875b4418/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-<a href="https://github.com/mhmdkbyry908-art">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-
-</p>
+📸 Instagram: [@Mohammadkabiri_web](https://instagram.com/Mohammadkabiri_web)
 
 ---
 
-<p align="center">
-⭐ <b>Thanks for visiting my profile!</b> ⭐
-<br><br>
-<i>"Every expert was once a beginner."</i>
-</p>
+⭐ Thanks for visiting my profile!
+
+> "Every expert was once a beginner."
