@@ -70,7 +70,31 @@ I'm currently learning Front-End Development and building real-world projects to
 ---
 
 # 📌 My Projects
+## 💳 Card Project – Educational Payment Gateway
 
+An interactive and responsive educational payment gateway interface built with HTML, CSS, JavaScript, and Tailwind CSS.
+
+### Features
+- Interactive bank card interface
+- 16-digit card number input
+- Save bank cards using LocalStorage
+- Display and select previously saved cards
+- CVV2 is requested again and is not stored
+- Responsive design for desktop and mobile devices
+
+### Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS v4
+- Vite
+- LocalStorage
+
+🔗 [Repository](https://github.com/mhmdkbyry908-art/card-project)
+
+🔗 [Live Demo](https://mhmdkbyry908-art.github.io/card-project/)
+
+---
 ## 🎮 Tic-Tac-Toe Python
 
 Object-Oriented Tic-Tac-Toe game built with Python.
